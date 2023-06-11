@@ -1,5 +1,6 @@
 {
     "name" : "discord-rpc-fest",
+    "url" : "https://github.com/Fearester2008/linc_discord-rpc", 
     "license": "MIT",
     "tags": [
         "cross", "cpp", "native", "extern", "game", "android"
