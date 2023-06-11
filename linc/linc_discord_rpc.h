@@ -1,5 +1,5 @@
 #pragma once
-#ifdef _WIN32
+#ifdef _WIN32 and ANDROID
     #pragma comment(lib, "advapi32")
 #endif
 
